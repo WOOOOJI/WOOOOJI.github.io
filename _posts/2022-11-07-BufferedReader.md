@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "BufferedReader 사용해서 사친역산 프로그래밍"
+---
+
 ```
 try {
 		ArrayList<Integer> list = new ArrayList<Integer>();
