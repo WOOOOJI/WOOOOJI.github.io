@@ -17,7 +17,7 @@ Programmers Coding Test Level 1 - 짝수와 홀수를 구분하는 메소드 작
 제한 조건 :
 
 - num은 int 범위의 정수입니다.
-- 0은 짝수입니다
+- 0은 짝수입니다.
 
 
 
