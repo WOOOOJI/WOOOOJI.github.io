@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "프로그래머스 Level 1 문제 1. 짝수와 홀수 구분"
+---
+
+
 Programmers Coding Test Level 1 - 짝수와 홀수를 구분하는 메소드 작성
 
 
