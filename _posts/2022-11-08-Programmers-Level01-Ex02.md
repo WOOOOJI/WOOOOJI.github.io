@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Programmers Coding Test Level 1 - 배열에 있는 데이터로 평균구하기"
+---
+
+
 Programmers Coding Test Level 1 - 평균 구하기.
 
 
