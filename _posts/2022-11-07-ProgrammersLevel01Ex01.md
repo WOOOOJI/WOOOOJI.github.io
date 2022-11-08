@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Programmers Coding Test Level 1 - 짝수와 홀수를 구분"
 ---
 
