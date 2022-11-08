@@ -1,6 +1,18 @@
+
 ---
-layout: single
 title:  "BufferedReader 사용해서 사친역산 프로그래밍"
+
+
+categories:
+  - Coding Blog
+tags:
+  - [Blog, Java, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-11-07
+last_modified_at: 2022-11-07
 ---
 
 ```
